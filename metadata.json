@@ -1,0 +1,5 @@
+{
+  "name": "Quản lý Đơn hàng & Công nợ",
+  "description": "Ứng dụng quản lý đơn đặt hàng, theo dõi trạng thái hoàn thành, nhắc nhở đơn hàng tồn đọng và quản lý công nợ khách hàng.",
+  "requestFramePermissions": []
+}
